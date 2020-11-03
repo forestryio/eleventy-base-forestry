@@ -2,7 +2,9 @@
 
 A starter repository showing how to build a blog with the [Eleventy](https://github.com/11ty/eleventy) static site generator.
 
-[![Build Status](https://travis-ci.org/11ty/eleventy-base-blog.svg?branch=master)](https://travis-ci.org/11ty/eleventy-base-blog)
+Pre-configured for Forestry CMS, import it in a single click
+
+[![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=dirtyf/eleventy-base-forestry&engine=other&branch=forestry)
 
 ## Demos
 
