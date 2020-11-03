@@ -20,3 +20,5 @@ fields:
   label: layout
   default: post
   hidden: true
+pages:
+- posts/a-post-written-in-forestry.md
