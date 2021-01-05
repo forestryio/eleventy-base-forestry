@@ -12,7 +12,6 @@ sections:
 - type: document
   path: _data/metadata.json
   label: Site metadata
-  match: "**/*"
 upload_dir: img
 public_path: "/img"
 front_matter_path: ''
